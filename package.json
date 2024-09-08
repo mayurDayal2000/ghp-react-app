@@ -1,7 +1,8 @@
 {
   "name": "ghp-react-app",
+  "description": "react app made with vite for deployment in gh pages",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -24,5 +25,9 @@
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
     "vite": "^5.4.1"
-  }
+  },
+  "repository": "git@github.com:mayurDayal2000/ghp-react-app.git",
+  "author": "Mayur Dayal <mayur.dayal97@gmail.com>",
+  "homepage": "https://github.com/mayurDayal2000/ghp-react-app",
+  "license": "MIT"
 }
